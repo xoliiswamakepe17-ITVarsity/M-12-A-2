@@ -1,0 +1,22 @@
+body{
+    background-color: aquamarine;
+}
+
+button{
+    color: blueviolet;
+    background-color: brown;
+
+    border-width: 10px;
+}
+
+label{
+    color: beige;
+}
+
+button{
+    color: antiquewhite;
+}
+
+div{
+    color: aqua;
+}
